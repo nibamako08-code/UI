@@ -34,32 +34,32 @@ end
 if GameId == 1720936166 then
     -- 1. All Star Tower Defense
     NotifyLoad("All Star Tower Defense")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/ALLSTARENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/ALLSTARENG.lua", true))()
 
 elseif PlaceId == 14890802310 then
     -- 2. Bizarre Lineage
     NotifyLoad("Bizarre Lineage")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/BizarreLineageENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/BizarreLineageENG.lua", true))()
 
 elseif PlaceId == 286090429 then
     -- 3. Arsenal
     NotifyLoad("Arsenal")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/AENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/AENG.lua", true))()
 
 elseif PlaceId == 70845479499574 or PlaceId == 11520107397 or PlaceId == 11520108331 then
     -- 4. Bite By Night (รองรับหลาย PlaceId ในแมพเดียวกัน)
     NotifyLoad("Bite By Night")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/BBNENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/BBNENG.lua", true))()
 
 elseif PlaceId == 9391468976 then
     -- 5. Jujutsu Shenanigans
     NotifyLoad("Jujutsu Shenanigans")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/JJSENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/JJSENG.lua", true))()
 
 elseif GameId == 4658598196 then
     -- 6. attack on titan revolution
     NotifyLoad("attack on titan revolution")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/AOTRENG.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/AOTRENG.lua", true))()
 
 
 
