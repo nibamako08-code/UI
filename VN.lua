@@ -36,7 +36,7 @@ if GameId == 1720936166 then
     NotifyLoad("All Star Tower Defense")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/ALLSTARVN.lua", true))()
 
-elseif PlaceId == 14890802310 then
+elseif GameId == 5130394318 then
     -- 2. Bizarre Lineage
     NotifyLoad("Bizarre Lineage")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/BizarreLineageVN.lua", true))()
