@@ -34,7 +34,7 @@ end
 if GameId == 1720936166 then
     -- 1. All Star Tower Defense
     NotifyLoad("All Star Tower Defense")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/NEWMC.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/PJ", true))()
 
 elseif GameId == 5130394318 then
     -- 2. Bizarre Lineage
