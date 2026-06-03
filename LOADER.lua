@@ -36,10 +36,10 @@ if GameId == 1720936166 then
     NotifyLoad("All Star Tower Defense")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/PJ", true))()
 
-elseif GameId == 93978595733734 then
+elseif PlaceId == 93978595733734 then
     -- 2. Violent District 
     NotifyLoad("Violent District")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/DV"))()
+    loadstring(game:HttpGet("https://wareguardv2.xyz/raw_anyhub?hub=starhub&script=DV1"))()
 
 elseif GameId == 5130394318 then
     -- 2. Bizarre Lineage
