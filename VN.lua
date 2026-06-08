@@ -34,7 +34,7 @@ end
 if GameId == 1720936166 then
     -- 1. All Star Tower Defense
     NotifyLoad("All Star Tower Defense")
-    loadstring(game:HttpGet("https://wareguardv2.xyz/raw_anyhub?hub=starhub&script=ASTDVN", true))()
+    loadstring(game:HttpGet("https://wareguardv2.xyz/raw_anyhub?hub=starhub&script=WLVN", true))()
 
 elseif GameId == 5130394318 then
     -- 2. Bizarre Lineage
