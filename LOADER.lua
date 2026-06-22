@@ -70,7 +70,10 @@ elseif GameId == 4658598196 then
     -- 7. attack on titan revolution
     NotifyLoad("attack on titan revolution")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/AOTR.lua", true))()
-
+elseif GameId == 94987506187454 then
+    -- 8. REDLINER
+    NotifyLoad("REDLINER")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
 
 
 else
