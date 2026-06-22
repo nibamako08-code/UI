@@ -34,7 +34,7 @@ end
 if GameId == 1720936166 then
     -- 1. All Star Tower Defense
     NotifyLoad("All Star Tower Defense")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/PJ", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/obfuscated_script-1782114387933.lua.txt", true))()
 
 elseif PlaceId == 93978595733734 then
     -- 2. Violent District 
