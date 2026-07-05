@@ -86,6 +86,11 @@ elseif PlaceId == 9391468976 then
     NotifyLoad("REDLINER")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
 
+            elseif PlaceId == Place ID: 97598239454123 then
+    -- 6. REDLINER
+    NotifyLoad("GAG2")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/67GAG", true))()
+
 elseif GameId == 4658598196 then
     -- 7. attack on titan revolution
     NotifyLoad("attack on titan revolution")
