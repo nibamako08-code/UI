@@ -31,7 +31,12 @@ end
 -- 🔄 ระบบแยกทาง (Game Detection Routing)
 -- ==========================================
 
-if GameId == 1720936166 then
+if GameId == 994732206 then
+    -- Blox Fruits
+    NotifyLoad("Blox Fruits")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/BF", true))()
+
+elseif GameId == 1720936166 then
     -- 1. All Star Tower Defense
     NotifyLoad("All Star Tower Defense")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/obfuscated_script-1782114387933.lua.txt", true))()
@@ -66,33 +71,18 @@ elseif PlaceId == 9391468976 then
     NotifyLoad("Jujutsu Shenanigans")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/JJS.lua", true))()
 
-    elseif PlaceId == 115875349872417 then
+elseif PlaceId == 115875349872417 or PlaceId == 126691165749976 or PlaceId == 94987506187454 then
     -- 6. REDLINER
     NotifyLoad("REDLINER")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
 
-        elseif PlaceId == 126691165749976 then
-    -- 6. REDLINER
-    NotifyLoad("REDLINER")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
-
-        elseif PlaceId == 94987506187454 then
-    -- 6. REDLINER
-    NotifyLoad("REDLINER")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
-
-        elseif PlaceId == 126691165749976 then
-    -- 6. REDLINER
-    NotifyLoad("REDLINER")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
-
-            elseif PlaceId == 97598239454123 then
-    -- 6. REDLINER
+elseif PlaceId == 97598239454123 then
+    -- 7. GAG2
     NotifyLoad("GAG2")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/67GAG", true))()
 
 elseif GameId == 4658598196 then
-    -- 7. attack on titan revolution
+    -- 8. attack on titan revolution
     NotifyLoad("attack on titan revolution")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/AOTR.lua", true))()
 
