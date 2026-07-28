@@ -76,7 +76,7 @@ elseif PlaceId == 115875349872417 or PlaceId == 126691165749976 or PlaceId == 94
     NotifyLoad("REDLINER")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/LR", true))()
 
-elseif PlaceId == 97598239454123 then
+elseif PlaceId == 73504898027860 then
     -- 7. GAG2
     NotifyLoad("GAG2")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/67GAG", true))()
