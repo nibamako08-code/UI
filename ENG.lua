@@ -61,6 +61,11 @@ elseif GameId == 4658598196 then
     NotifyLoad("attack on titan revolution")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/ILUVU/refs/heads/main/AOTRENG.lua", true))()
 
+    elseif PlaceId == 73504898027860 then
+    -- 7. GAG2
+    NotifyLoad("GAG2")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/67Gen", true))()
+
 
 
 else
