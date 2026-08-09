@@ -33,8 +33,8 @@ end
 
 if GameId == 994732206 then
     -- Blox Fruits
-    NotifyLoad("Blox Fruits")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/xd/refs/heads/main/BF", true))()
+    NotifyLoad("go to paid")
+    loadstring(game:HttpGet("", true))()
 
 elseif GameId == 1720936166 then
     -- 1. All Star Tower Defense
@@ -78,13 +78,13 @@ elseif PlaceId == 115875349872417 or PlaceId == 126691165749976 or PlaceId == 94
 
 elseif PlaceId == 73504898027860 then
     -- 7. GAG2
-    NotifyLoad("GAG2")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/67GAG", true))()
+    NotifyLoad("go to paid")
+    loadstring(game:HttpGet("", true))()
 
 elseif GameId == 4658598196 then
     -- 8. attack on titan revolution
-    NotifyLoad("attack on titan revolution")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nibamako08-code/UI/refs/heads/main/AOTR.lua", true))()
+    NotifyLoad("go to paid")
+    loadstring(game:HttpGet("", true))()
 
 
 
